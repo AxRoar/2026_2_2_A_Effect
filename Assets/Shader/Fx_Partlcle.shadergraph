@@ -2599,7 +2599,7 @@
     "m_Title": "Main Color",
     "m_Position": {
         "x": -797.0,
-        "y": -413.0000305175781
+        "y": -413.0
     }
 }
 
@@ -2957,7 +2957,7 @@
     "m_ObjectId": "5c2200dc229e4ec0aeda4e6ec4d17e56",
     "m_Title": "Secondary Color",
     "m_Position": {
-        "x": 98.00003051757813,
+        "x": 98.0,
         "y": -119.0
     }
 }
@@ -3187,8 +3187,8 @@
     "m_ObjectId": "67c7e9c1ff5b41aa874d3bac4b2deed7",
     "m_Title": "Emissive Power",
     "m_Position": {
-        "x": 991.9999389648438,
-        "y": -110.99998474121094
+        "x": 992.0,
+        "y": -111.0
     }
 }
 
@@ -3556,7 +3556,7 @@
     "m_ObjectId": "77758c5c0d0a43659774568bf7dc4190",
     "m_Title": "Alpha",
     "m_Position": {
-        "x": 1909.0001220703125,
+        "x": 1909.0,
         "y": -52.0
     }
 }
@@ -4536,7 +4536,7 @@
     "m_Title": "Soft Particle Factor",
     "m_Position": {
         "x": 1168.0,
-        "y": 333.0000305175781
+        "y": 333.0
     }
 }
 
@@ -5268,7 +5268,7 @@
     "m_ObjectId": "cccde8973d8a4e97abb0dc9d352d69bf",
     "m_Title": "Dissovle",
     "m_Position": {
-        "x": -930.0000610351563,
+        "x": -930.0,
         "y": 360.0
     }
 }
